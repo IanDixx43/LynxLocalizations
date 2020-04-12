@@ -32,5 +32,9 @@
 	<string>تغيير أسم أول</string>
 	<key>USE_CUSTOM_LAST_NAME</key>
 	<string>تغيير أسم أخير</string>
+	<key>UPDATES</key>
+	<string>تحديثات</string>
+	<key>HIDE_UPDATES_BADGE</key>
+	<string>إخفاء إشعار تحديث</string>
 </dict>
 </plist>
