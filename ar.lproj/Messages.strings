@@ -22,5 +22,9 @@
     <string>لون أول</string>
     <key>Color 2</key>
     <string>لون ثاني</string>
+    <key>SEND_PROGRESS</key>
+    <string>تقدم أرسال</string>
+    <key>ALWAYS_SHOW_BAR</key>
+    <string>عرض شريط بار للأرسال</string>
 </dict>
 </plist>
