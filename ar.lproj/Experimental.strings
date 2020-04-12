@@ -22,7 +22,7 @@
 	<string>استخدام نمط حديث</string>
 	<key>DISABLE_ON_HOMESCREEN</key>
 	<string>أيقاف في شاشة رئيسية</string>
-	<key>ICON SHAPE</key>
+	<key>Icon Shape</key>
 	<string>تنسيق شكل أيقونات</string>
 	<key>ROUND_SCREEN_WARNING</key>
 	<string>تحذير تدوير زوايا الشاشة</string>
@@ -32,7 +32,7 @@
 	<string>شاشة رئيسية وتطبيقات</string>
 	<key>Use Custom Corner Radius</key>
 	<string>أستخدام زوايا مخصصة</string>
-	<key>PHOTOS</key>
+	<key>Photos</key>
 	<string>الصور</string>
 	<key>Enable Debug Info</key>
 	<string>إصلاح معلومات صور</string>

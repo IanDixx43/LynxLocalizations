@@ -37,7 +37,7 @@
 	<key>REPORT_BUG</key>
 	<string>قسم المشاكل</string>
 	<key>REQUEST_FEATURE</key>
-	<string>طلب إضافة جدبدة</string>
+	<string>طلب إضافة جديدة</string>
 	<key>Reset Settings</key>
 	<string>إعادة ضبط</string>
 	<key>SAFARI_SECTION</key>
@@ -66,13 +66,15 @@
 	<string>إعادة ضبط إعدادات الأداة:</string>
 	<key>WIDGETS_VIEW</key>
 	<string>الصفحة اليومية (ويدجيت)</string>
+	<key>RESET_SETTINGS</key>
+	<string>إعادة ضبط الأن؟</string>
 	<key>RESET_SETTINGS_WARNING</key>
-	<string>هل أنت متأكد من أنك نريد إعادة ضبط؟</string>
+	<string>هل أنت متأكد من أنك تريد إعادة ضبط؟</string>
 	<key>SPECIAL_THANKS</key>
 	<string>شكر خاص</string>
 	<key>TRANSLATORS</key>
-	<string>منرجمون</string>
-	<key>CONTRIBUTIONS</key>
+	<string>مترجمون</string>
+	<key>Contributions</key>
 	<string>مساهمون:</string>
 	<key>OTHER_TWEAKS</key>
 	<string>أدوات (حزم) أخرى:</string>

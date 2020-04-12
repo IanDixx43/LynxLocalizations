@@ -22,7 +22,7 @@
     <string>منع أغلاق الموسيقى</string>
     <key>APP_SWITCHER</key>
     <string>مبدل التطبيقات</string>
-    <key>SWIPE TO KILL</key>
+    <key>Swipe To Kill</key>
     <string>تمرير للأغلاق جميع تطبيقات</string>
     <key>SWIPE_DOWN_TO_KILL</key>
     <string>تمرير للأسفل لأغلاق التطبيقات</string>
