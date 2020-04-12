@@ -9,9 +9,9 @@
 	<key>ENTER_CUSTOM_CARRIER_TEXT</key>
 	<string>أكتب هنا</string>
 	<key>HIDE_BATTERY</key>
-	<string>أخفاء البطارية</string>
+	<string>إخفاء البطارية</string>
 	<key>HIDE_CELLULAR_SIGNAL</key>
-	<string>أخفاء شبكة الأتصال</string>
+	<string>إخفاء شبكة الأتصال</string>
 	<key>HIDE_CLOCK</key>
 	<string>إخفاء الساعة</string>
 	<key>HIDE_COLORED_VIEW</key>
@@ -19,11 +19,11 @@
 	<key>HIDE_EVERYWHERE</key>
 	<string>إخفاء من كل مكان</string>
 	<key>HIDE_LOCK_ICON</key>
-	<string>أخفاء القفل</string>
+	<string>إخفاء القفل</string>
 	<key>HIDE_PULSING_VIEW</key>
 	<string>أخفاء النبض</string>
 	<key>HIDE_WIFI_SIGNAL</key>
-	<string>أخفاء الواي فاي</string>
+	<string>إخفاء الواي فاي</string>
 	<key>HIDING</key>
 	<string>إخفاء</string>
 	<key>HOTSPOT_AND_RECORDING</key>
@@ -44,5 +44,35 @@
 	<string>عناصر شريط الحالة</string>
 	<key>USE_CUSTOM_CARRIER</key>
 	<string>تغيير أسم</string>
+    <key>HIDE_CARRIER_TEXT</key>
+    <string>إخفاء أسم مشغل</string>
+    <key>HIDE_LOCATION_ARROW</key>
+    <string>إخفاء موقع</string>
+    <key>HIDE_ROTATION_LOCK</key>
+    <string>إخفاء قفل التدوير</string>
+    <key>HIDE_DND_MOON</key>
+    <string>إخفاء وضع عدم إزعاج</string>
+    <key>HIDE_ALARM_BELL</key>
+    <string>إخفاء المنبه</string>
+    <key>HIDE_AIRPLANE_MODE</key>
+    <string>إخفاء وضع الطيران</string>
+    <key>HIDE_VPN</key>
+    <string>إخفاء VPN</string>
+    <key>DISABLE_AIRPLANE_ANIMATION</key>
+    <string>تعطيل حركة وضع طيران</string>
+    <key>ANIMATIONS</key>
+    <string>الرسوم المتحركة</string>
+    <key>HIDE_SB_LOCK</key>
+    <string>إخفاء علامة قفل</string>
+    <key>USE_WIFI_ADDRESS</key>
+    <string>أستخدام عنوان واي فاي</string>
+    <key>STYLE</key>
+    <string>نمط شكل</string>
+    <key>USE_IPHONE_X_STYLE</key>
+    <string>أستخدام شكل أيفون X</string>
+    <key>USE_IPAD_STYLE</key>
+    <string>أستخدام شكل أيباد</string>
+    <key>HIDE_IPAD_STYLE_DATE</key>
+    <string>إخفاء تاريخ لشكل أيباد</string>
 </dict>
 </plist>
