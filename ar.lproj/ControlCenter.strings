@@ -20,5 +20,7 @@
     <string>أستخدم لون داكن</string>
     <key>DARK_MODULE_WARNING</key>
     <string>أستخدام وضع داكن لايعمل مع المصباح</string>
+    <key>TOGGLES</key>
+    <string>العناصر</string>
 </dict>
 </plist>
