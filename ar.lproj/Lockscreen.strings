@@ -114,5 +114,15 @@
     <string>أخفاء فواصل التمرير</string>
     <key>SHOW_IMMEDIATELY</key>
     <string>عرض على الفور</string>
+    <key>STYLE</key>
+    <string>نمط</string>
+    <key>ALWAYS_USE_DO_NOT_DISTURB</key>
+    <string>أستخدام وضع عدم إزعاج دائماً</string>
+    <key>HIDE_X_BUTTON</key>
+    <string>إخفاء زر حذف</string>
+    <key>ANIMATIONS</key>
+    <string>الرسوم المتحركة</string>
+    <key>DISABLE_WAKE_ANIMATION</key>
+    <string>تعطيل</string>
 </dict>
 </plist>
