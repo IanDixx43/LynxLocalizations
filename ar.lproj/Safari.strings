@@ -13,7 +13,7 @@
 	<key>USE_TAB_OVERVIEW</key>
 	<string>إستخدام علامات التبويب</string>
     <key>PRIVATE_MODE</key>
-    <string>وضع مخفي</string>
+    <string>وضع تصفح مخفي</string>
     <key>HIDE_BANNER</key>
     <string>إخفاء البار</string>
     <key>URL_BAR</key>
