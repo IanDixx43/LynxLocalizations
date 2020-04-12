@@ -66,5 +66,17 @@
 	<string>إعادة ضبط إعدادات الأداة:</string>
 	<key>WIDGETS_VIEW</key>
 	<string>الصفحة اليومية (ويدجيت)</string>
+	<key>RESET_SETTINGS_WARNING</key>
+	<string>هل أنت متأكد من أنك نريد إعادة ضبط؟</string>
+	<key>SPECIAL_THANKS</key>
+	<string>شكر خاص</string>
+	<key>TRANSLATORS</key>
+	<string>منرجمون</string>
+	<key>CONTRIBUTIONS</key>
+	<string>مساهمون:</string>
+	<key>OTHER_TWEAKS</key>
+	<string>أدوات (حزم) أخرى:</string>
+	<key>Try DopeConvos</key>
+	<string>جرب (DopeConvos)</string>
 </dict>
 </plist>
