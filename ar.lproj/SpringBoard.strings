@@ -37,7 +37,7 @@
 	<key>FOLDERS</key>
 	<string>مجلدات</string>
 	<key>FORCE_SMALL_TITLES</key>
-	<string>عناوين صغيرة</string>
+	<string>تفعيل عناوين صغيرة دائماً</string>
 	<key>FORCE_TOUCH</key>
 	<string>3D Touch</string>
 	<key>Force Small Titles</key>
