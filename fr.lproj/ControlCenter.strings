@@ -18,5 +18,7 @@
     <string>Utiliser les modules sombres</string>
     <key>DARK_MODULE_WARNING</key>
     <string>Les modules sombres ne marchent pas pour le module de la lampe torche</string>
+    <key>TOGGLES</key>
+    <string>Bascules</string>
 </dict>
 </plist>
