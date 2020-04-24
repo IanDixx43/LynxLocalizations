@@ -149,6 +149,34 @@
     <key>HIDE_BETA_DOTS</key>
     <string>Cacher les points lié a la beta</string>
     <key>HIDE_BAR_LOCKSCREEN</key>
-    <string>Cacher dans l'écran de vérouillage</string>
+    <string>Cacher la barre dans l'écran de vérouillage</string>
+    <key>HIDE_COMPLETELY</key>
+    <string>Cacher complètement</string>
+    <key>SELECT_APPS</key>
+    <string>Selection d'apps</string>
+     <key>ADD_CLEAR_BADGES</key>
+    <string>Ajouter l'option 'Effacer" pour les badges</string>
+    <key>HIDE_EXPANDED_WIDGETS</key>
+    <string>Cacher la vue étendu Widgets</string>
+    <key>DRAG_DROP</key>
+    <string>Drag &amp; Drop</string>
+    <key>ENABLE_DRAG_DROP</key>
+    <string>Activer le Drag and Drop</string>
+    <key>WALLPAPER</key>
+    <string>Fond d'écran</string>
+    <key>DISABLE_DARKENING</key>
+    <string>Désactiver l'assombrissement</string>
+    <key>HIDE_BADGE_TEXT</key>
+    <string>Cacher le badge de texte</string>
+    <key>DARKENING_WARNING</key>
+    <string>Désactiver l'assombrissement active aussi le mode perspective.</string>
+    <key>ICON_SCALE</key>
+    <string>Taille des icones</string>
+    <key>USE_CUSTOM_SCALE</key>
+    <string>Utiliser une taille customisé</string>
+    <key>SCALE_WARNING</key>
+    <string>La taille est de 100% jusqu'a 200%</string>
+    <key>DOUBLE_TAP_LOCK</key>
+    <string>Double Tap pour verouiller</string>
 </dict>
 </plist>
