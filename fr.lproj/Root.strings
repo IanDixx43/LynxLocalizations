@@ -58,5 +58,19 @@
     <string>Allez voir Satiné</string>
     <key>APPLY_BUTTON</key>
     <string>Appliquer</string>
+    <key>TWEAK_BLACKLIST</key>
+    <string>Liste noire de tweak</string>
+    <key>DISABLE_IN</key>
+    <string>Désactiver Lynx dans les Applications</string>
+    <key>OTHER_TWEAKS</key>
+    <string>Autres Projets</string>
+    <key>TRANSLATORS</key>
+    <string>Traducteurs</string>
+    <key>SPECIAL_THANKS</key>
+    <string>Remerciement</string>
+    <key>RESET_SETTINGS</key>
+    <string>Restaurer les paramètres</string>
+    <key>RESET_SETTINGS_WARNING</key>
+    <string>Êtes vous sûrs de vouloir restaurer les paramètres?</string>
 </dict>
 </plist>
