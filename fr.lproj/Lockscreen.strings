@@ -110,5 +110,23 @@
     <string>Montrer immédiatement</string>
     <key>DISPLAY_IMMEDIATELY</key>
     <string>Toujours afficher les notifications</string>
+    <key>USE_SMOOTHER_SWIPING</key>
+    <string>Utiliser un glissement fluide</string>
+    <key>HIDE_SWIPE_SEPARATORS</key>
+    <string>Cacher les séparations</string>
+    <key>HIDE_X_BUTTON</key>
+    <string>Cacher le bouton 'X'</string>
+    <key>FACE_ID</key>
+    <string>Face ID</string>
+    <key>STYLE</key>
+    <string>Style</string>
+    <key>ALWAYS_USE_DO_NOT_DISTURB</key>
+    <string>Toujours utiliser le mode sombre du mode ne pas déranger</string>
+    <key>HIDE_X_BUTTON</key>
+    <string>Cacher le bouton 'X'</string>
+    <key>ANIMATIONS</key>
+    <string>Animations</string>
+    <key>DISABLE_WAKE_ANIMATION</key>
+    <string>Désactiver l'animation de réveil</string>
 </dict>
 </plist>
