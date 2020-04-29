@@ -16,5 +16,9 @@
     <string>Couleur de teinte</string>
     <key>MESSAGES</key>
     <string>Messages</string>
+    <key>SEND_PROGRESS</key>
+    <string>Progression de l'envoie</string>
+    <key>ALWAYS_SHOW_BAR</key>
+    <string>Toujours montrer la progression</string>
 </dict>
 </plist>

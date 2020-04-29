@@ -20,5 +20,9 @@
     <string>Empêcher la fermeture des apps actives</string>
     <key>APP_SWITCHER</key>
     <string>Sélecteur d'apps</string>
+    <key>USE_CUSTOM_SCALE</key>
+    <string>Utiliser une taille customisé pour les cartes</string>
+    <key>SWIPE_DOWN_TO_KILL</key>
+    <string>Glisser vers le bas pour tuer</string>
 </dict>
 </plist>

@@ -38,5 +38,37 @@
     <string>Batterie</string>
     <key>SHOW_PERCENTAGE</key>
     <string>Montrer le pourcentage</string>
+    <key>USE_WIFI_ADDRESS</key>
+    <string>Utiliser l'adresse WiFi</string>
+    <key>ANIMATIONS</key>
+    <string>Animations</string>
+    <key>HIDE_CARRIER_TEXT</key>
+    <string>Cacher le nom de l'opérateur</string>
+    <key>HIDE_LOCATION_ARROW</key>
+    <string>Cacher la flèche de localisation</string>
+    <key>HIDE_ROTATION_LOCK</key>
+    <string>Cacher l'icone de rotation bloqué</string>
+    <key>HIDE_DND_MOON</key>
+    <string>Cacher la lune du mode ne pas déranger/string>
+    <key>HIDE_ALARM_BELL</key>
+    <string>Cacher la cloche de l'alarme</string>
+    <key>HIDE_AIRPLANE_MODE</key>
+    <string>Cacher le Mode Avion</string>
+    <key>HIDE_VPN</key>
+    <string>Cacher le VPN</string>
+    <key>DISABLE_AIRPLANE_ANIMATION</key>
+    <string>Désactiver l'animation du mode avion</string>
+    <key>HIDE_SB_LOCK</key>
+    <string>Cacher dans l'écran d'acceuil et dans l'écran de vérouillage</string>
+    <key>USE_IPHONE_X_STYLE</key>
+    <string>Utiliser le style de l'iPhone X</string>
+    <key>STYLE</key>
+    <string>Style</string>
+    <key>USE_IPAD_STYLE</key>
+    <string>Utiliser le style de l'iPad</string>
+    <key>HIDE_IPAD_STYLE_DATE</key>
+    <string>Cacher le style de l'ipad pour la date</string>
+    <key>HIDE_BATTERY_BOLT</key>
+    <string>Cacher l'éclair dans la batterie</string>
 </dict>
 </plist>

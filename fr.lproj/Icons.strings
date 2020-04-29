@@ -1,7 +1,7 @@
 <plist version="1.0">
 <dict>
     <key>APP_INTERFACE_STYLE</key>
-    <string>Style de l'interface des Apps</string>
+    <string>Style de l'interface de l'app</string>
     <key>DARK_MODE</key>
     <string>Sombre</string>
     <key>LIGHT_MODE</key>
@@ -9,69 +9,69 @@
     <key>DOCK</key>
     <string>Dock</string>
     <key>HIDE_DOCK_BACKGROUND</key>
-    <string>Cacher le fond</string>
+    <string>Cacher l'arrière plan</string>
     <key>USE_CUSTOM_ICON_COUNT</key>
-    <string>Utiliser un comptage d'icone customisé</string>
+    <string>Utiliser un nombre customisé d'icones</string>
     <key>HOME_BAR</key>
-    <string>Barre home</string>
+    <string>Home Bar</string>
     <key>HIDE_BAR_EVERYWHERE</key>
-    <string>Cacher la barre partout</string>
+    <string>Cacher partout</string>
     <key>TABLE_VIEWS</key>
-    <string>Vue des Tables</string>
+    <string>Table Views</string>
     <key>HIDE_TABLE_VIEW_SEPARATORS</key>
-    <string>Cacher les séparations</string>
+    <string>Cacher les separations</string>
     <key>USE_CUSTOM_COLOR</key>
     <string>Utiliser une couleur customisé</string>
     <key>COLORPICKER_TINT_COLOR</key>
-    <string>Couleur de teinte</string>
+    <string>Couleur de la teinte</string>
     <key>SEARCH_BARS</key>
     <string>Barre de recherche</string>
     <key>HIDE_SEARCH_BARS</key>
-    <string>Cacher complétement</string>
+    <string>Cacher complètement</string>
     <key>HIDE_SEARCH_BAR_BACKGROUND</key>
-    <string>Cacher le fond</string>
+    <string>Cacher l'arrière plan</string>
     <key>SEARCH_BAR_WARNING</key>
-    <string>Cacher la barre de recherce peut causé des comportement étranges c'est intentionel basé sur le fait qu'il soient cachés</string>
+    <string>Cacher la barres de recherches peut causer un comportement étrange dans les apps. Ceci est intentionel basé sur la façon dont ils sont caché</string>
     <key>SCREENSHOTS</key>
     <string>Capture d'écran</string>
     <key>HIDE_FLASH</key>
-    <string>Cacher le flash</string>
+    <string>Cacher le Flash</string>
     <key>FLASH_TINT_COLOR</key>
-    <string>Couleur du flash</string>
+    <string>Couleur de la teinte du Flash</string>
     <key>SCROLL_INDICATORS</key>
-    <string>Indicateur du défilement</string>
+    <string>Indicateur de scroll</string>
     <key>HIDE_SCROLL_BARS</key>
-    <string>Cacher la barre de défilement</string>
+    <string>Cacher la barre de scroll</string>
     <key>NAVIGATION_BARS</key>
-    <string>Barre de navigation</string>
+    <string>Barres de navigation</string>
     <key>HIDE_SHADOW_IMAGE</key>
     <string>Cacher l'ombre</string>
     <key>FOLDERS</key>
-    <string>Dossier</string>
+    <string>Dossiers</string>
     <key>HIDE_FOLDER_TITLES</key>
-    <string>Cacher le nom des dossiers</string>
+    <string>Cacher le titre des dossiers</string>
     <key>HIDE_OPEN_FOLDER_BACKGROUND</key>
-    <string>Cacher le fond lors de l'ouverture</string>
+    <string>Cacher l'arrière plan en mode ouvert</string>
     <key>HIDE_FOLDER_ICON_BACKGROUND</key>
-    <string>Cacher l'icone du dossier</string>
+    <string>Cacher l'arrière plan de l'icone du dossier</string>
     <key>CLOSE_FOLDER_AUTOMATICALLY</key>
-    <string>Fermer automatiquement les dossiers</string>
+    <string>Fermer automatiquement</string>
     <key>ICONS</key>
     <string>Icones</string>
     <key>HIDE_LABELS</key>
     <string>Cacher les labels</string>
     <key>HIDE_PAGE_DOTS</key>
-    <string>Cacher les points de page</string>
+    <string>Cacher les points de pages</string>
     <key>HIDE_UPDATE_DOTS</key>
-    <string>Cacher les points de mise a jours</string>
+    <string>Cacher les points de mise a jour</string>
     <key>SHOW_DONE_BUTTON</key>
-    <string>Montrer le bouton "Terminé"</string>
+    <string>Montrer le bouton 'fini'</string>
     <key>USE_CUSTOM_LABEL_COLOR</key>
-    <string>Utilisé une couleur de label customisé</string>
+    <string>Utiliser une couleur customisé pour le label</string>
     <key>SWITCHES</key>
-    <string>Interrupteurs</string>
+    <string>Switches</string>
     <key>USE_CUSTOM_SWITCH_COLOR</key>
-    <string>Utilisé une couleur d'activation customisé</string>
+    <string>Utiliser une couleur customisé pour le mode activé</string>
     <key>BADGES</key>
     <string>Badges</string>
     <key>HIDE_BADGES</key>
@@ -81,80 +81,82 @@
     <key>FORCE_TOUCH</key>
     <string>3D Touch</string>
     <key>HIDE_SHARE_OPTION</key>
-    <string>Cacher l'option "partage de l'application"</string>
+    <string>Cacher le 'partager l'application'</string>
     <key>HIDE_DELETE_OPTION</key>
-    <string>Cacher l'option d'effacement de l'app</string>
+    <string>Cacher l'option de suppression d'apps</string>
     <key>HIDE_EDIT_OPTION</key>
-    <string>Cacher l'option "modifier"</string>
+    <string>Cacher le bouton modifier</string>
     <key>REVERSE_ACTION_ORDER</key>
-    <string>Inverser l'ordre des actions</string>
+    <string>Inverser l'ordre d'actions</string>
     <key>HIDE_ACTION_ICONS</key>
     <string>Cacher les icones des actions</string>
     <key>SHOW_IP_ADDRESS</key>
-    <string>Montrer l'addresse IP</string>
+    <string>Montrer l'adresse IP</string>
     <key>SHOW_BATTERY_LEVEL</key>
     <string>Montrer le niveau de batterie</string>
     <key>HIDE_SEPARATOR_LINES</key>
-    <string>Cacher les lines séparatrices</string>
+    <string>Cacher les lignes séparatrices</string>
     <key>SCREEN_TIME</key>
     <string>Temps d'écran</string>
     <key>DISABLE_ICON_DARKENING</key>
     <string>Désactiver l'assombrissement des icones</string>
     <key>DISABLE_HOURGLASS_ICON</key>
-    <string>Désactiver l'icone de sablier</string>
+    <string>Décastiver l'icone de sablier</string>
     <key>BREADCRUMBS</key>
-    <string>Bouton retour</string>
+    <string>Icone retour</string>
     <key>HIDE_APP_BREADCRUMBS</key>
-    <string>Cacher le bouton retour dans les apps</string>
+    <string>Cacher le bouton retour a l'app précédent</string>
     <key>TAB_BAR_LABELS</key>
-    <string>Labels dans la barre de navigation</string>
+    <string>Labels de la barre d'onglet</string>
     <key>HIDE_TAB_BAR_LABELS</key>
-    <string>Cacher les labels</string>
+    <string>Cacher les labels de la barre d'onglet</string>
     <key>HOMESCREEN_WIDGETS</key>
-    <string>Widgets de l'écran d'acceuil</string>
+    <string>Widget de l'écran principal</string>
     <key>HIDE_ADD_WIDGET_TEXT</key>
-    <string>Cacher le texte "ajouter un widget"</string>
+    <string>Cacher le texte 'ajouter un widget'</string>
     <key>FACEID_ALERT</key>
-    <string>FaceID Popup</string>
+    <string>Face ID Popup</string>
     <key>USE_CUSTOM_FACEID_ANIMATIONS</key>
-    <string>Utiliser une animation customisé de FaceID</string>
+    <string>Utiliser des animations customisé du FACE ID</string>
     <key>FACID_DISMISSAL_TIME</key>
-    <string>FaceID Temps avant expiration</string>
+    <string>Délai d'effacement du Face ID</string>
     <key>FACEID_ANIMATION_LENGTH</key>
-    <string>Longueur de l'animation de FaceID</string>
+    <string>Longueur de l'animation du FACE ID</string>
     <key>LOW_POWER_MODE</key>
-    <string>Low Power Mode</string>
+    <string>Mode économie d'énergie</string>
     <key>DISABLE_AUTO_LOCK</key>
-    <string>Désactiver le mode automatique de verouillage</string>
+    <string>Désactiver l'auto lock</string>
     <key>ANIMATIONS</key>
     <string>Animations</string>
     <key>ICON_FLY_IN</key>
-    <string>Désactiver les icones suradjacentes</string>
+    <string>Desactiver le mode Fly-In des icones</string>
     <key>SYSTEM_WIDE</key>
-    <string>A l'échelle du système</string>
+    <string>A l'échelle du systeme</string>
     <key>HIDE_VOLUME_HUD</key>
-    <string>Cacher le HUD du volume</string>
+    <string>Cacher le Volume HUD</string>
     <key>USE_CUSTOM_NUMBER_OF_COLUMNS</key>
     <string>Utiliser un nombre customisé de colonnes</string>
     <key>USE_MODERN_STYLE_TABLEVIEWS</key>
     <string>Utiliser le style moderne</string>
     <key>FORCE_SMALL_TITLES</key>
-    <string>Forcer des titres petits</string>
+    <string>Forcer les titres petits</string>
     <key>HIDE_BETA_FEEDBACK</key>
-    <string>Cacher les retours de beta</string>
+    <string>Cacher le Beta Feedback</string>
     <key>VOLUME_HUD</key>
     <string>Volume HUD</string>
     <key>DISABLE_ON_HOMESCREEN</key>
-    <string>Désactiver dans le menu d'acceuil</string>
+    <string>Désactiver dans l'écran d'acceuil</string>
     <key>HIDE_BETA_DOTS</key>
-    <string>Cacher les points lié a la beta</string>
+    <string>Cacher les points de beta</string>
+    <key>DISABLE_SCREENSHOT_SOUND</key>
+    <string>Désactiver le son du screenshot</string>
     <key>HIDE_BAR_LOCKSCREEN</key>
-    <string>Cacher la barre dans l'écran de vérouillage</string>
+    <string>Cacher dans l'écran de vérouillage</string>
     <key>HIDE_COMPLETELY</key>
     <string>Cacher complètement</string>
     <key>SELECT_APPS</key>
-    <string>Selection d'apps</string>
-     <key>ADD_CLEAR_BADGES</key>
+    <string>Sélection d'apps</string>
+    <key>ADD_CLEAR_BADGES</key>
     <string>Ajouter l'option 'Effacer" pour les badges</string>
     <key>HIDE_EXPANDED_WIDGETS</key>
     <string>Cacher la vue étendu Widgets</string>
@@ -176,7 +178,5 @@
     <string>Utiliser une taille customisé</string>
     <key>SCALE_WARNING</key>
     <string>La taille est de 100% jusqu'a 200%</string>
-    <key>DOUBLE_TAP_LOCK</key>
-    <string>Double Tap pour verouiller</string>
 </dict>
 </plist>

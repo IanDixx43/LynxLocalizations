@@ -6,5 +6,17 @@
     <string>Utiliser l'aperçu des onglets</string>
     <key>DISCLAIMER_PLACEHOLDER</key>
     <string>Les animations peuvent être buggé quand l'option "Aperçu des onlgets" est activé comme il s'agit d'une option pour iPad</string>
+    <key>ENABLE_BACKGROUND_PLAYBACK</key>
+    <string>Activer l'écoute en arrière plan</string>
+    <key>BACKGROUND_PLAYBACK</key>
+    <string>Ecoute en arrière pla</string>
+    <key>URL_BAR</key>
+    <string>Barre de l'URL</string>
+    <key>HIDE_BACKGROUND</key>
+    <string>Cacher l'arrière plan/string>
+    <key>PRIVATE_MODE</key>
+    <string>Mode privée</string>
+    <key>HIDE_BANNER</key>
+    <string>Cacher la bannière du mode privée</string
 </dict>
 </plist>
