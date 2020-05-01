@@ -1,3 +1,6 @@
+# ALL LOCALIZATIONS HAVE BEEN PUT ON PAUSE UNTIL FURTHER NOTICE. MANUALLY TRANSLATING REQUIRES A LOT OF WORK FOR BOTH THE DEVELOPER AND THE TRANSLATORS. LYNX WILL BE TRANSLATED VIA CROWDIN SOON.
+
+
 # LynxLocalizations
 Repository for all [Lynx](https://repo.twickd.com/package/com.twickd.mtac.lynx) localizations
 
